@@ -1,0 +1,2 @@
+groups ckula | tr ' ' ','
+
